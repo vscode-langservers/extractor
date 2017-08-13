@@ -1,0 +1,6 @@
+language: generic 
+
+script: ./setup.sh
+env:
+  global:
+  - ENCRYPTION_LABEL: "a0e576af6a35"
