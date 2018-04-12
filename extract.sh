@@ -15,6 +15,6 @@ function extract {
 	git branch -D extract
 }
 
-extract extensions/css/server git@github.com:vscode-langservers/vscode-css-languageserver.git
-extract extensions/html/server git@github.com:vscode-langservers/vscode-html-languageserver.git
-extract extensions/json/server git@github.com:vscode-langservers/vscode-json-languageserver.git
+extract extensions/css-language-features/server git@github.com:vscode-langservers/vscode-css-languageserver.git
+extract extensions/html-language-features/server git@github.com:vscode-langservers/vscode-html-languageserver.git
+extract extensions/json-language-features/server git@github.com:vscode-langservers/vscode-json-languageserver.git
